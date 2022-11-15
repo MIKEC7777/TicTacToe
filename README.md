@@ -1,4 +1,4 @@
-# TicTacToe
+ TicTacToe
 
 Game of tic tac toe 2 player game where you try to get three in a row in any direction. <br>
 Just click on the square that you want to mark it and take turns until you run out of squares or you get three in a row. 
